@@ -1,0 +1,8 @@
+F:\Проекты\ChangeContent\bin\Debug\ConsoleApplication.exe.config
+F:\Проекты\ChangeContent\bin\Debug\ConsoleApplication.exe
+F:\Проекты\ChangeContent\bin\Debug\ConsoleApplication.pdb
+F:\Проекты\ChangeContent\obj\x86\Debug\ChangeContent.csproj.AssemblyReference.cache
+F:\Проекты\ChangeContent\obj\x86\Debug\ChangeContent.csproj.SuggestedBindingRedirects.cache
+F:\Проекты\ChangeContent\obj\x86\Debug\ChangeContent.csproj.CoreCompileInputs.cache
+F:\Проекты\ChangeContent\obj\x86\Debug\ConsoleApplication.exe
+F:\Проекты\ChangeContent\obj\x86\Debug\ConsoleApplication.pdb

@@ -1,0 +1,14 @@
+F:\Проекты\ChangeContent2\bin\Debug\ChangeContent2.exe.config
+F:\Проекты\ChangeContent2\bin\Debug\ChangeContent2.exe
+F:\Проекты\ChangeContent2\bin\Debug\ChangeContent2.pdb
+F:\Проекты\ChangeContent2\obj\Debug\ChangeContent.csproj.AssemblyReference.cache
+F:\Проекты\ChangeContent2\obj\Debug\ChangeContent.csproj.SuggestedBindingRedirects.cache
+F:\Проекты\ChangeContent2\obj\Debug\ChangeContent.csproj.CoreCompileInputs.cache
+F:\Проекты\ChangeContent2\obj\Debug\ChangeContent2.exe
+F:\Проекты\ChangeContent2\obj\Debug\ChangeContent2.pdb
+F:\Проекты\ChangeContent\obj\Debug\ChangeContent.csproj.SuggestedBindingRedirects.cache
+F:\Проекты\ChangeContent\obj\Debug\ChangeContent.csproj.CoreCompileInputs.cache
+F:\Проекты\ChangeContent\bin\Debug\ChangeContent.exe
+F:\Проекты\ChangeContent\bin\Debug\ChangeContent.pdb
+F:\Проекты\ChangeContent\obj\Debug\ChangeContent.exe
+F:\Проекты\ChangeContent\obj\Debug\ChangeContent.pdb
